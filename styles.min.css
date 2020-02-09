@@ -35,7 +35,7 @@
 }
 
 .img-login {
-  background-image: url('../img/child.jpeg');
+  background-image: url('child.jpeg');
   background-size: cover;
   background-position:center;
 }
